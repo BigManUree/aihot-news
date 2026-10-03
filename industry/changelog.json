@@ -1,0 +1,25 @@
+{
+  "latestVersion": "2026-10-02T18:00",
+  "releases": [
+    {
+      "date": "2026-10-02",
+      "time": "18:00",
+      "kind": "改版",
+      "title": "定位为 AI Agent 互联网技术情报站",
+      "body": [
+        "从通用 AI 新闻聚合改为面向 AI 开发者的技术情报站：重点盯 AI Agent、Coding Agent、MCP/A2A、开源项目、模型与 AI Infra。",
+        "一级分类调整为 Agent、AI Coding、Models、Open Source、MCP/A2A、Developer Tools、Infrastructure、Research、Security、Applications、Industry。",
+        "信源向官方一手来源倾斜，并新增 GitHub 与 arXiv 相关源；评分更看重技术影响力、开发者影响、Agent 影响与开源程度，压低融资软文与重复转载。"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "time": "08:00",
+      "kind": "公告",
+      "title": "网站上线",
+      "body": [
+        "用 AIHOT 开源框架搭起了这个站：自动盯住信源、精选、把同一件事归到一起，每天早上出一份日报。"
+      ]
+    }
+  ]
+}
